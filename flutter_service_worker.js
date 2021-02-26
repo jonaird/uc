@@ -4,8 +4,8 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "2582586fd804b6a59896c2a25e1b91f2",
-"index.html": "fc60a036fbcf6c1ca69c77170ebb131c",
-"/": "fc60a036fbcf6c1ca69c77170ebb131c",
+"index.html": "80e27679c32c83e7a35c4c0a978af541",
+"/": "80e27679c32c83e7a35c4c0a978af541",
 "main.dart.js": "4944b8b51d006d02b9ccf256f86f3fd2",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
@@ -31,7 +31,7 @@ const RESOURCES = {
 "assets/assets/What-is-a-digital-garden%253F.json": "3e93de3e8cd68764234188198b605cb7",
 "assets/assets/creators-struggle-to-run-their-businesses.json": "dd1c51b3ff5913d575ece60462c6a04e",
 "assets/assets/the-shift-from-the-attention-economy-to-the-value-economy.json": "7e76fff2890d86dcdd3ee1a1ed3110dc",
-"assets/assets/digital-garden.json": "c6d83b66e315e1430f3392a8545fcfc1",
+"assets/assets/digital-garden.json": "85d91fc84b1999cf9ada45a7eb3cc4ed",
 "assets/assets/customer-acquisition-funnel-slide.json": "1a27ba3fe53043b034c8cf349bddb4e5",
 "assets/assets/creator-first.json": "f4408793a36cd21defd24950462b6c85",
 "assets/assets/knowledge-graph-slide.json": "af9be3e7dd3afc6e5fd5b4b0d0044d02",
@@ -45,7 +45,7 @@ const RESOURCES = {
 "assets/assets/competition-slide.json": "55e9c5ae538f3b265034280e93b4c585",
 "assets/assets/Digital-Garden-examples-ff4c8994ee8d45269c1aa272b088a632.md": "60c267ca7eab575aced10a6b0db8127e",
 "assets/assets/digital-renaissance.json": "573db2a32de02594dbb27f730caab2cb",
-"assets/assets/tools-for-thought.json": "29155f4771af70e45b3cfb5ea2352d85",
+"assets/assets/tools-for-thought.json": "aa4dcdc79676c8633f499f9caac2ba23",
 "assets/assets/history-of-computing-and-tools-for-thought.json": "e6f5967927490b5395243fe4a4c55d89",
 "assets/assets/programmable-feeds-slide.json": "7e65504be0081b46177fa80c1c5bd56f",
 "assets/assets/the-internet-was-born-with-missing-pieces.json": "41235d45187d328cd4ced4d729b4ee7a",
