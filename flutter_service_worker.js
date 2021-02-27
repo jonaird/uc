@@ -4,8 +4,8 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "2582586fd804b6a59896c2a25e1b91f2",
-"index.html": "50406b795f9dc4e27e167a17912d1542",
-"/": "50406b795f9dc4e27e167a17912d1542",
+"index.html": "f39eab48ebe39f8bf8480fcd36c84c80",
+"/": "f39eab48ebe39f8bf8480fcd36c84c80",
 "main.dart.js": "4944b8b51d006d02b9ccf256f86f3fd2",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
@@ -41,7 +41,7 @@ const RESOURCES = {
 "assets/assets/digital-garden-examples.json": "fd427a88032cc65d85b07b328a24369b",
 "assets/assets/the-current-state-of-affairs.json": "1d8530a5ec40c41c4afeecfacfff9b25",
 "assets/assets/architecture-of-the-internet.json": "6ee2c34f2f9f912fd8bc1e5e0556146a",
-"assets/assets/What-is-a-digital-garden.json": "6fb25e238895474ed40a25b39df74878",
+"assets/assets/What-is-a-digital-garden.json": "18dad2800b2ce8cdfcf4e957dfc2a3ac",
 "assets/assets/competition-slide.json": "55e9c5ae538f3b265034280e93b4c585",
 "assets/assets/Digital-Garden-examples-ff4c8994ee8d45269c1aa272b088a632.md": "60c267ca7eab575aced10a6b0db8127e",
 "assets/assets/digital-renaissance.json": "573db2a32de02594dbb27f730caab2cb",
