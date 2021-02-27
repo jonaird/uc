@@ -4,8 +4,8 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "2582586fd804b6a59896c2a25e1b91f2",
-"index.html": "4eef370fc5b4c6bf4d6c9a428b3fd58a",
-"/": "4eef370fc5b4c6bf4d6c9a428b3fd58a",
+"index.html": "38d140ca111da4c1f9d5d16ed5373f6e",
+"/": "38d140ca111da4c1f9d5d16ed5373f6e",
 "main.dart.js": "4944b8b51d006d02b9ccf256f86f3fd2",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
@@ -33,7 +33,7 @@ const RESOURCES = {
 "assets/assets/the-shift-from-the-attention-economy-to-the-value-economy.json": "7e76fff2890d86dcdd3ee1a1ed3110dc",
 "assets/assets/digital-garden.json": "cba3c1e4906ab0c708bb268b86a28507",
 "assets/assets/customer-acquisition-funnel-slide.json": "1a27ba3fe53043b034c8cf349bddb4e5",
-"assets/assets/creator-first.json": "f4408793a36cd21defd24950462b6c85",
+"assets/assets/creator-first.json": "b76ba714f69d2816205a40f2a945b87f",
 "assets/assets/knowledge-graph-slide.json": "af9be3e7dd3afc6e5fd5b4b0d0044d02",
 "assets/assets/Start-Here.json": "f6ee6a0ad4876e6d7cd06b3cbede5680",
 "assets/assets/first-slide.json": "1c64727a993e698cef99c44ca609d0ac",
