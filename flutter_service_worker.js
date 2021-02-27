@@ -4,8 +4,8 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "2582586fd804b6a59896c2a25e1b91f2",
-"index.html": "80e27679c32c83e7a35c4c0a978af541",
-"/": "80e27679c32c83e7a35c4c0a978af541",
+"index.html": "50406b795f9dc4e27e167a17912d1542",
+"/": "50406b795f9dc4e27e167a17912d1542",
 "main.dart.js": "4944b8b51d006d02b9ccf256f86f3fd2",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
@@ -39,7 +39,7 @@ const RESOURCES = {
 "assets/assets/first-slide.json": "1c64727a993e698cef99c44ca609d0ac",
 "assets/assets/aligning-incentives.json": "499f417fef820536acb448e67cb391fd",
 "assets/assets/digital-garden-examples.json": "fd427a88032cc65d85b07b328a24369b",
-"assets/assets/the-current-state-of-affairs.json": "3b692d4e0dd6e21018b4de1d5d1d583e",
+"assets/assets/the-current-state-of-affairs.json": "1d8530a5ec40c41c4afeecfacfff9b25",
 "assets/assets/architecture-of-the-internet.json": "6ee2c34f2f9f912fd8bc1e5e0556146a",
 "assets/assets/What-is-a-digital-garden.json": "6fb25e238895474ed40a25b39df74878",
 "assets/assets/competition-slide.json": "55e9c5ae538f3b265034280e93b4c585",
